@@ -1,4 +1,4 @@
-GenisysPro
+GenisysPro id DEAD :D
 ====================
 
 [![GenisysPro](http://i.imgur.com/R8gExma.jpg)](https://genisys.pro)
